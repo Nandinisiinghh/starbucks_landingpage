@@ -1,5 +1,5 @@
 # starbucks_landingpage
 
 {
-  HTML & CSS
-}
+  HTML, CSS & JAVASCRIPT
+};
